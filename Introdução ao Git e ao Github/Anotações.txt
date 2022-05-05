@@ -1,0 +1,9 @@
+Link para download do Git: https://git-scm.com/download/
+Instalar ultima versão do Git no Linux Mint
+1 - Abrir o terminal Ctrl+Alt+T
+2 - sudo add-apt-repository ppa:git-core/ppa -y
+3 - apt update
+4 - sudo apt install git
+4 - git --version
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
